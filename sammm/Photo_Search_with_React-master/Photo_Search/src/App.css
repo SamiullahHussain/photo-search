@@ -1,0 +1,21 @@
+.image-container {
+  display: flex;
+    flex-wrap: wrap;
+    gap: 28px;
+   
+}
+.flickr-image:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+body{
+  margin-left: 35px;
+}
+.test{
+  text-align: center;
+  
+}
+.test1{
+  font-weight: 20px;
+  color: red;
+}
